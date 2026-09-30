@@ -1,0 +1,20 @@
+# Compiled binaries
+*.exe
+*.out
+*.o
+*.obj
+*.so
+*.dll
+
+# Local build outputs
+bubble
+quicksort
+
+# Editor/OS files
+.DS_Store
+.vscode/
+*.swp
+*.swo
+
+# Debug logs
+*.log
