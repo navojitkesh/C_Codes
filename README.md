@@ -43,6 +43,8 @@ C_Codes/
 └── ... future C files here
 ```
 
+## Added quick sort
+
 ## Notes
 
 - Each file is intended to be a standalone program.
